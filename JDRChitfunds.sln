@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDRChitfunds", "JDRChitfunds\JDRChitfunds.csproj", "{46451FF6-7815-4C1A-A341-92A0FB7CB9F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46451FF6-7815-4C1A-A341-92A0FB7CB9F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46451FF6-7815-4C1A-A341-92A0FB7CB9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46451FF6-7815-4C1A-A341-92A0FB7CB9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46451FF6-7815-4C1A-A341-92A0FB7CB9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9A0AA0-77F7-4626-B367-24EDC21A09A5}
+	EndGlobalSection
+EndGlobal
